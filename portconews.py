@@ -12,7 +12,7 @@ if hasattr(ssl, '_create_unverified_context'):
 
 # Set page configuration
 st.set_page_config(
-    page_title="RBV Portfolio Companies News Feed",
+    page_title="RBV Portco News Feed",
     layout="wide",
     initial_sidebar_state="collapsed",
     page_icon="📰"
