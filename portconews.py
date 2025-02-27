@@ -41,7 +41,7 @@ except FileNotFoundError:
     pass
 
 # App title
-st.title("Red Beard Ventures Portfolio Companies News Feed 📰")
+st.title("Red Beard Ventures Portco News Feed 📰")
 st.write("Stay updated with the latest news from our portfolio companies.")
 
 # RSS feed URL
